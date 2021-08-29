@@ -1,4 +1,4 @@
-#!/bin.bash
+#!/bin/bash
 
 string_a="UNIX"
 string_b="GNU"
